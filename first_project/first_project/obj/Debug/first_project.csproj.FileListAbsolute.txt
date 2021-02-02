@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\first_project\first_project\bin\Debug\first_project.exe.config
+E:\AIUB\2021\C#\first_project\first_project\bin\Debug\first_project.exe
+E:\AIUB\2021\C#\first_project\first_project\bin\Debug\first_project.pdb
+E:\AIUB\2021\C#\first_project\first_project\obj\Debug\first_project.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\first_project\first_project\obj\Debug\first_project.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\first_project\first_project\obj\Debug\first_project.exe
+E:\AIUB\2021\C#\first_project\first_project\obj\Debug\first_project.pdb

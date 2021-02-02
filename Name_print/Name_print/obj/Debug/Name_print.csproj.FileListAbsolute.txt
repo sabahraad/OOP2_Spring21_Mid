@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\Name_print\Name_print\bin\Debug\Name_print.exe.config
+E:\AIUB\2021\C#\Name_print\Name_print\bin\Debug\Name_print.exe
+E:\AIUB\2021\C#\Name_print\Name_print\bin\Debug\Name_print.pdb
+E:\AIUB\2021\C#\Name_print\Name_print\obj\Debug\Name_print.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\Name_print\Name_print\obj\Debug\Name_print.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\Name_print\Name_print\obj\Debug\Name_print.exe
+E:\AIUB\2021\C#\Name_print\Name_print\obj\Debug\Name_print.pdb
