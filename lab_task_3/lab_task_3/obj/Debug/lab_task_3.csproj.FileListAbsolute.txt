@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\obj\Debug\lab_task_3.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\obj\Debug\lab_task_3.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\bin\Debug\lab_task_3.exe.config
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\bin\Debug\lab_task_3.exe
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\bin\Debug\lab_task_3.pdb
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\obj\Debug\lab_task_3.exe
+E:\AIUB\2021\C#\lab_task_3\lab_task_3\obj\Debug\lab_task_3.pdb
