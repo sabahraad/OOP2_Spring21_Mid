@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\obj\Debug\lab_task_3.4.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\obj\Debug\lab_task_3.4.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\bin\Debug\lab_task_3.4.exe.config
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\bin\Debug\lab_task_3.4.exe
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\bin\Debug\lab_task_3.4.pdb
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\obj\Debug\lab_task_3.4.exe
+E:\AIUB\2021\C#\lab_task_3.4\lab_task_3.4\obj\Debug\lab_task_3.4.pdb
