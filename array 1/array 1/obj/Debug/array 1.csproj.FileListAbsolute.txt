@@ -1,0 +1,6 @@
+E:\AIUB\2021\C#\array 1\array 1\obj\Debug\array 1.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\array 1\array 1\bin\Debug\array 1.exe.config
+E:\AIUB\2021\C#\array 1\array 1\bin\Debug\array 1.exe
+E:\AIUB\2021\C#\array 1\array 1\bin\Debug\array 1.pdb
+E:\AIUB\2021\C#\array 1\array 1\obj\Debug\array 1.exe
+E:\AIUB\2021\C#\array 1\array 1\obj\Debug\array 1.pdb
