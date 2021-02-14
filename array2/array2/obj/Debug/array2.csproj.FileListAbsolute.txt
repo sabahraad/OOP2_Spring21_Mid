@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\array2\array2\bin\Debug\array2.exe.config
+E:\AIUB\2021\C#\array2\array2\bin\Debug\array2.exe
+E:\AIUB\2021\C#\array2\array2\bin\Debug\array2.pdb
+E:\AIUB\2021\C#\array2\array2\obj\Debug\array2.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\array2\array2\obj\Debug\array2.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\array2\array2\obj\Debug\array2.exe
+E:\AIUB\2021\C#\array2\array2\obj\Debug\array2.pdb
