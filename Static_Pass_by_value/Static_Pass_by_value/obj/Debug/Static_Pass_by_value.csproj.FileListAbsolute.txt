@@ -1,0 +1,7 @@
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\bin\Debug\Static_Pass_by_value.exe.config
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\bin\Debug\Static_Pass_by_value.exe
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\bin\Debug\Static_Pass_by_value.pdb
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\obj\Debug\Static_Pass_by_value.csprojAssemblyReference.cache
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\obj\Debug\Static_Pass_by_value.csproj.CoreCompileInputs.cache
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\obj\Debug\Static_Pass_by_value.exe
+E:\AIUB\2021\C#\Static_Pass_by_value\Static_Pass_by_value\obj\Debug\Static_Pass_by_value.pdb
