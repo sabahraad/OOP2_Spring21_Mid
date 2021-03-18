@@ -20,7 +20,7 @@ namespace Static_Pass_by_value
             a = b;
             b = temp;
         }
-        static void outexample(out a)
+        static void outexample(out int a)
         {
             a = 5050;
         }
